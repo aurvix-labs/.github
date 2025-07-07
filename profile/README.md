@@ -1,6 +1,6 @@
-# 🧩 Goblin Gear Labs
+# 🧩 Aurvix Labs
 
-Welcome to **Goblin Gear Labs**, a space for **AI, automation, and full-stack development** projects. We focus on exploring and implementing innovative technology solutions.
+Welcome to **Aurvix Labs**, a space for **AI, automation, and full-stack development** projects. We focus on exploring and implementing innovative technology solutions.
 
 ## 🔥 Areas of Focus
 - **Machine Learning & AI**: Research, development, and deployment of intelligent systems.
@@ -20,9 +20,5 @@ Welcome to **Goblin Gear Labs**, a space for **AI, automation, and full-stack de
 🔹 **Intelligent Validation System** – AI-driven model for data verification.  
 🔹 **Algorithmic Trading Research** – Exploring AI-based trading strategies.  
 🔹 **E-Commerce Tech Solutions** – Investigating AI-driven commerce tools.
-
-## 📫 Connect
-📧 Email: [contact@goblingearlabs.com](mailto:contact@goblingearlabs.com)  
-🌍 [Website](https://goblingearlabs.com)
 
 Exploring the future of AI and technology! 🚀
